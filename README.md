@@ -8,11 +8,13 @@
 Welcome to my Machine Learning lab — a tidy, visual place to learn, experiment, and contribute practical ML work.
 
 **What you'll find**
+
 - 📚 Curated notebooks demonstrating ML workflows and analyses.
 - 📈 Small projects and experiments using real datasets (e.g., `USA_Housing.csv`).
 - 🧪 Reproducible code and clear notes to help you learn quickly.
 
 **Highlights**
+
 - Purpose: hands-on learning and building practical ML intuition.
 - Focus: supervised & unsupervised learning, feature engineering, model evaluation, and applied demos.
 
@@ -48,6 +50,7 @@ jupyter notebook
 ```
 
 **Tips**
+
 - Use the `ml` virtual environment kernel in Jupyter for consistent packages.
 - Keep experiments small and document decisions in Markdown cells.
 
@@ -62,6 +65,7 @@ jupyter notebook
 ---
 
 If you'd like, I can:
+
 - add a polished `notebooks/` index
 - register the `ml` kernel with Jupyter
 - generate a starter notebook template
